@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JazBass
 - 👀 I’m interested in native mobile development.
-- 🌱 I’m currently learning Android programming with Java and Kotlin and I would like to learn swift development for IOs.
+- 🌱 I’m currently Android developer with experience in Java and Kotlin. 
 - 📫 How to reach me https://www.linkedin.com/in/jazbass/
 
 <!---
